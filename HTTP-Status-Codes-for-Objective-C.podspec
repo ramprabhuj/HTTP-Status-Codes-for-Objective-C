@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage              = "https://github.com/rafiki270/HTTP-Status-Codes-for-Objective-C"
   s.license               = 'MIT'
   s.author                = { "Ondrej Rafaj" => "ondrej.rafaj@fuerteint.com" }
-  s.source                = { "git" => "https://github.com/rafiki270/HTTP-Status-Codes-for-Objective-C.git", "tag" => "1.0.0" }
+  s.source                = { "git" => "https://github.com/rafiki270/HTTP-Status-Codes-for-Objective-C.git"}
   s.platform              = :ios, '7.0'
   s.requires_arc          = true
   s.source_files          = 'Source'
