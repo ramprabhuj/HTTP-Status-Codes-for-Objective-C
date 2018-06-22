@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "HTTP-Status-Codes-for-Objective-C"
-  s.version               = "1.0.0"
+  s.version               = "master"
   s.summary               = "Enumeration of HTTP status code for Objective-C"
   s.homepage              = "https://github.com/rafiki270/HTTP-Status-Codes-for-Objective-C"
   s.license               = 'MIT'
